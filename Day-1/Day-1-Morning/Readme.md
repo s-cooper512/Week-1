@@ -65,10 +65,9 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 #### Week 1
 
-![](../asset/Week%201.png)
-
+![](./asset/Week%201.png
 #### Week 2
-![](../asset/Week%202.png)
+![](./asset/Week%202.png)
 
 
 ## Unit Breakdown
