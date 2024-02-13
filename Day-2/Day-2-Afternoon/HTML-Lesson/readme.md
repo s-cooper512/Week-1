@@ -1,4 +1,4 @@
-# HTML & CSS
+# HTML
 
 ## Learning Objectives
 
