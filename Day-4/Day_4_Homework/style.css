@@ -10,6 +10,11 @@ body {
     transition: transform 1s linear;
 }
 
+#starFox:active {
+    transform: rotate(-360deg);
+    transition: transform 1s linear;
+}
+
 #imageGrid {
     display: flex;
     flex-wrap: wrap;
